@@ -1,4 +1,4 @@
-package ac.id.task.roomtutorial
+package ac.id.task.roomtutorial.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
